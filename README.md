@@ -1,5 +1,5 @@
 I can help a small business retrieve useful information from Excel by:
-Empowering Small Business with Data-Driven Solutions.
+Empowering Small Business with Data-Driven Solutions to:
 Automate Data Tasks:
 Eliminate tedious manual data entry and processing with custom Python scripts within Excel.
 Gain Deeper Insights:
